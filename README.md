@@ -1,5 +1,9 @@
 # hello-world
 starting point :)
 
-edit
-edit2
+
+Hi evrbody
+
+Ljubisa reports, I'm pupil in BILD-IT. One day i'll be softer developer :)
+=======
+
